@@ -1,2 +1,2 @@
 # codepath-prework
-Tip Calculator - Codepath rework project
+Tip Calculator - Codepath prework project
