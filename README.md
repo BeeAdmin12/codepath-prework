@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=http://g.recordit.co/4wif1SEeDp.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with RecordIt
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+First challenge I had was that the mac mini I first bought was not fast enough to run the prokect. So, I had to go out and get a new one. Within the application itself, I was confused about what objects to link to the view controller, but in the end it made sense.
 
 ## License
 
